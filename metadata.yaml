@@ -1,0 +1,31 @@
+_repo: The-Issahar-Artifacts_29271
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bone, Jesse F. (Jesse Franklin)
+    aliases:
+    - Bone, J. F. (Jesse Franklin)
+    - Bone, Jesse Franklin
+    birthdate: 1916
+    deathdate: 2006
+    gutenberg_agent_id: '946'
+    url: http://www.gutenberg.org/2009/agents/946
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Issahar Artifacts
+url: http://www.gutenberg.org/ebooks/29271
